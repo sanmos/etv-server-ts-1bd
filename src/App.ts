@@ -7,7 +7,7 @@ const mongoose = require('mongoose')
 ////import * as express from 'express';
 import * as bodyParser from 'body-parser';
 //import config from './config';
-import config_db from './config';
+//import config_db from './config';
 
 import Controller from './interfaces/controller.interface';
 import loggerMiddleware from './middleware/logger.middleware';
